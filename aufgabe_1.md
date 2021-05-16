@@ -42,7 +42,7 @@ Im Rahmen eines Retrodigitalisierungsprojektes hat sich die SuUB Bremen mit der 
 
 
 
-Abkürzungsverzeichnis
+Abkürzungsverzeichnis  
 API:	Application Programming Interface  
 CSV:	Comma-separated-values  
 DH: 	Digital Humanities  
@@ -53,11 +53,11 @@ NSDAP:	Nationalsozialistische Deutsche Arbeiterpartei
 SuUB Bremen: Staats- und Universitätsbibiothek Bremen  
 
 
-<a name="Fußnote1">1</a>: //www.erding-geschichte.de/
-<a name="Fußnote2">2</a>:Einige dieser Debatten sind bereits vor sechzehn Jahren in der Publikation Digital History: A Guide to Gathering, Preserving, and Presenting the Past on the Web von Daniel J. Cohen and Roy Rosenzweig (Philadelphia: University of Pennsylvania Press, 2005) angerissen worden.
-<a name="Fußnote3">3</a>: Nachweis in der Zeitschriftendatenbank: https://zdb-katalog.de/title.xhtml?idn=988894564
-<a name="Fußnote4">4</a>: https://www.omeka.net/
-<a name="Fußnote5">5</a>: Dieser Text enthält Zeichenfehler, die beim Lauf durch das OCR-Programm entstanden sind und noch nicht korrigiert wurden.
-<a name="Fußnote6">6</a>: Nölte, Manfred; Bultmann, Jan-Paul; Schünemann, Maik; Blenkle, Martin: Automatische Qualitätsverbesserung von Fraktur-Volltexten aus der Retrodigitalisierung am Beispiel der Zeitschrift Die Grenzboten. Erschienen in: o-bib, Bd. 3 Nr. 1 (2016). Online verfügbar unter: http://dx.doi.org/10.5282/o-bib/2016H1S32-55
-<a name="Fußnote7">7</a>: https://github.com/suub/ocr-evaluator
+<a name="Fußnote1">1</a>: //www.erding-geschichte.de/  
+<a name="Fußnote2">2</a>:Einige dieser Debatten sind bereits vor sechzehn Jahren in der Publikation Digital History: A Guide to Gathering, Preserving, and Presenting the Past on the Web von Daniel J. Cohen and Roy Rosenzweig (Philadelphia: University of Pennsylvania Press, 2005) angerissen worden.  
+<a name="Fußnote3">3</a>: Nachweis in der Zeitschriftendatenbank: https://zdb-katalog.de/title.xhtml?idn=988894564  
+<a name="Fußnote4">4</a>: https://www.omeka.net/  
+<a name="Fußnote5">5</a>: Dieser Text enthält Zeichenfehler, die beim Lauf durch das OCR-Programm entstanden sind und noch nicht korrigiert wurden.  
+<a name="Fußnote6">6</a>: Nölte, Manfred; Bultmann, Jan-Paul; Schünemann, Maik; Blenkle, Martin: Automatische Qualitätsverbesserung von Fraktur-Volltexten aus der Retrodigitalisierung am Beispiel der Zeitschrift Die Grenzboten. Erschienen in: o-bib, Bd. 3 Nr. 1 (2016). Online verfügbar unter: http://dx.doi.org/10.5282/o-bib/2016H1S32-55  
+<a name="Fußnote7">7</a>: https://github.com/suub/ocr-evaluator  
 
