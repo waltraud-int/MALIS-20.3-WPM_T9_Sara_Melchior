@@ -2,7 +2,7 @@ Sara Melchior, MALIS20, WPM T9
 
 Datenbank zur NS-Geschichte eines oberbayerischen Landkreises
 
-Die Onlineplattform „Erdinger Geschichte”[1]  beschäftigt sich mit der nationalsozialistischen Vergangenheit des Landkreises Erding in Oberbayern. Die Plattform wurde als Crowdsourcing-Initiative in Kooperation mit lokalen Ehrenamtlichen von dem Historiker Giulio Salvati, M.A. aufgebaut und soll kontinuierlich weiterentwickelt werden. Diese digitale Sammlung erlaubt es, historisches Unrecht vor Ort sichtbar zu machen. Zielgruppen sind dabei Bürger*innen und Geschichtsinteressierte im Landkreis, die Heimatforschung oder eigene Familienforschung betreiben.
+Die Onlineplattform „Erdinger Geschichte”<sup>[1](#Fußnote1)</sup>  beschäftigt sich mit der nationalsozialistischen Vergangenheit des Landkreises Erding in Oberbayern. Die Plattform wurde als Crowdsourcing-Initiative in Kooperation mit lokalen Ehrenamtlichen von dem Historiker Giulio Salvati, M.A. aufgebaut und soll kontinuierlich weiterentwickelt werden. Diese digitale Sammlung erlaubt es, historisches Unrecht vor Ort sichtbar zu machen. Zielgruppen sind dabei Bürger*innen und Geschichtsinteressierte im Landkreis, die Heimatforschung oder eigene Familienforschung betreiben.
 
 Akteure im Bereich der Digital Humanities (DH) haben in den letzten Jahren immer wieder darauf hingewiesen, dass eine der größten Herausforderungen von digital scholarship darin besteht, mit den neuen Tools marginalisierte Gruppen einzubinden und zu Wort kommen zu lassen. Das spiegelt sich insbesondere in den DH-Debatten um Cultural Heritage und den Herausforderungen, vor denen ethnologische und koloniale Museen stehen, wider.[2]  
 
@@ -44,10 +44,13 @@ Im Rahmen eines Retrodigitalisierungsprojektes hat sich die SuUB Bremen mit der 
 
 Abkürzungsverzeichnis
 API:	Application Programming Interface
+CSV:	Comma-separated-values
+DH: 	Digital Humanities
 GUI:	Graphical User Interface
 OCR:	Optical Character Recognition
 NS:	Nationalsozialismus
 NSDAP:	Nationalsozialistische Deutsche Arbeiterpartei 
+SuUB Bremen: Staats- und Universitätsbibiothek Bremen
 
 [1]https://www.erding-geschichte.de/
 [2]Einige dieser Debatten sind bereits vor sechzehn Jahren in der Publikation Digital History: A Guide to Gathering, Preserving, and Presenting the Past on the Web von Daniel J. Cohen and Roy Rosenzweig (Philadelphia: University of Pennsylvania Press, 2005) angerissen worden.
@@ -57,4 +60,4 @@ NSDAP:	Nationalsozialistische Deutsche Arbeiterpartei
 [6]Nölte, Manfred; Bultmann, Jan-Paul; Schünemann, Maik; Blenkle, Martin: Automatische Qualitätsverbesserung von Fraktur-Volltexten aus der Retrodigitalisierung am Beispiel der Zeitschrift Die Grenzboten. Erschienen in: o-bib, Bd. 3 Nr. 1 (2016). Online verfügbar unter: http://dx.doi.org/10.5282/o-bib/2016H1S32-55
 [7]https://github.com/suub/ocr-evaluator
 
-
+<a name="Fußnote1">1</a>: //www.erding-geschichte.de/
