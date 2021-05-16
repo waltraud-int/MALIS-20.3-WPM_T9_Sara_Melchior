@@ -26,7 +26,7 @@ Die OCR-Scans werden auf OMEKA im Bereich der Metadaten abgelegt und sind im Vol
 
  
 
-Die OCR-Scans müssen derzeit händisch nach Begriffen durchsucht werden, damit Tags vergeben werden können. Der Einsatz eines automatisierten Verfahrens über Programmschleifen würde die Effizienz bei der Generierung von Tags erhöhen. Ebenso müssen bisher alle Digitalisate händisch in OMEKA hochgeladen werden. Hinzu kommen die Zeichenfehler, die beim Einsatz des ABBYY FineReaders und der „Übersetzung“ des Frakturtextes in das OCR-Digitalisat entstehen, die bisher auch nur händisch korrigiert werden können. 
+Die OCR-Scans müssen derzeit manuell nach Begriffen durchsucht werden, damit Tags vergeben werden können. Der Einsatz eines automatisierten Verfahrens über Programmschleifen würde die Effizienz bei der Generierung von Tags erhöhen. Ebenso müssen bisher alle Digitalisate händisch in OMEKA hochgeladen werden. Hinzu kommen die Zeichenfehler, die beim Einsatz des ABBYY FineReaders und der „Übersetzung“ des Frakturtextes in das OCR-Digitalisat entstehen, die bisher auch nur manuell korrigiert werden können. 
 
 ## Möglicher softwarebasierter Ablauf für die Erkennung von Ortsbezeichnungen und den Upload in OMEKA
 
