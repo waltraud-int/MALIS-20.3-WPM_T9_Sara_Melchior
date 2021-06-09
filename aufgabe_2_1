@@ -1,9 +1,9 @@
 
-Die Bearbeitung von Aufgabe 2.1 soll abgeleitet aus Aufgabe 1 erfolgen.
+Die Bearbeitung von Aufgabe 2.1 soll abgeleitet aus <a href="https://github.com/waltraud-int/MALIS-20.3-WPM_T9_Sara_Melchior/blob/main/aufgabe_1.md">Aufgabe 1</a> erfolgen.
 
 ## Verknüpfung der Plattform mit einem Onlinearchiv in OMEKA
 
-Im Rahmen des MALIS20-Praxisprojektes wird derzeit ein Onlinearchiv mit dem Open Source Content Management System OMEKA.net<sup>[4](#Fußnote4)</sup> erstellt, das unter anderem die digitalisierten Ausgaben von „Aus der Heimat“ umfassen soll. Mittelfristig sollen die Inhalte aus OMEKA über Schnittstellen in die bestehende Onlineplattform „Erdinger Geschichte“ eingebunden werden. Zunächst wird über OMEKA.net eine eigene Seite eingerichtet mit spezifischem Layout im Frontend und Backend. Die Auseinandersetzung mit OMEKA umfasst auch die Entwicklung eines Workflows für die Dateneingabe der Digitalisate sowie die optimale Nutzung der Suchfunktionen und den dahinter liegenden Indexings. Im weiteren Verlauf des Projekts werden Export- und Importfunktionen und dafür vorhandene Schnittstellen und APIs geprüft.
+Im Rahmen des MALIS20-Praxisprojektes wird derzeit ein Onlinearchiv mit dem Open Source Content Management System OMEKA.net<sup>[1](#Fußnote1)</sup> erstellt, das unter anderem die digitalisierten Ausgaben von „Aus der Heimat“ umfassen soll. Mittelfristig sollen die Inhalte aus OMEKA über Schnittstellen in die bestehende Onlineplattform „Erdinger Geschichte“ eingebunden werden. Zunächst wird über OMEKA.net eine eigene Seite eingerichtet mit spezifischem Layout im Frontend und Backend. Die Auseinandersetzung mit OMEKA umfasst auch die Entwicklung eines Workflows für die Dateneingabe der Digitalisate sowie die optimale Nutzung der Suchfunktionen und den dahinter liegenden Indexings. Im weiteren Verlauf des Projekts werden Export- und Importfunktionen und dafür vorhandene Schnittstellen und APIs geprüft.
 
 ## Verbesserung der Arbeitsabläufe in OMEKA durch Softwareeinsatz
 
