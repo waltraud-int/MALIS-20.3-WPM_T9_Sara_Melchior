@@ -34,7 +34,7 @@ Die OCR-Scans müssen derzeit manuell nach Begriffen durchsucht werden, damit Ta
 2.	Diese in einer CSV-Tabelle in OMEKA uploaden
 3.	Skript aus if-/for-Schleife über die OCR-Dateien laufen lassen
 4.	Bedingung: wenn Begriff <xy> vorkommt, die Datei dazu mit Tags versehen bzw. auf OMEKA dem Datensatz diese Tags zuordnen
-5.	Die Dateien, über die das Skript gelaufen ist, in OMEKA downloaden
+5.	Die Dateien, über die das Skript gelaufen ist, in OMEKA ablegen
 
 ## Möglicher softwarebasierter Ablauf für die Nachkorrektur von Zeichenfehlern im OCR-Scan
 
