@@ -1,4 +1,4 @@
-Sara Melchior, MALIS20, WPM T9
+Sara Melchior, MALIS20, WPM T9, Aufgabe 2.1
 
 ## Datenbank zur NS-Geschichte eines oberbayerischen Landkreises
 
