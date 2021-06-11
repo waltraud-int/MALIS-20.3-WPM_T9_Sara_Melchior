@@ -7,7 +7,11 @@ und dem lokalen Bibliothekssystem Alephino automatisiert werden.
 
 Bei dem wöchentlich vorgenommenen Batch-Update werden Aktualisierungen aus der Verbunddatenbank in das lokale System händisch eingespielt. Als File-Manager wird dabei WinSCP genutzt.
 Hier wird ein lokaler Ordner als Zwischenablage genutzt, um die aktualisierten Dateien auszutauschen. Der wöchentlich zur Verfügung stehende Ordner mit dem aktuellsten Tagesdatum enthält 
-Plaintext-Dateien, die transferiert werden müssen. 
+Plaintext-Dateien, die transferiert werden müssen.
+
+Abbildung 1: ![Ordnerumgebung in WinSCP](https://github.com/waltraud-int/MALIS-20.3-WPM_T9_Sara_Melchior/issues/6)
+
+Abbildung 2: ![Zielordner für Updatedateien](https://github.com/waltraud-int/MALIS-20.3-WPM_T9_Sara_Melchior/issues/7)
 
 Das Update erfolgt über das händische Copy und Paste der Dateien. Dieser Schritt kann jedoch automatisiert werden. 
 Bei der Bearbeitung der Aufgabe 2.2 muss die Ordnerstruktur auf meinem privaten Rechner reproduziert werden, da ich bisher mit der Unix-Shell auf Mac gearbeitet habe und in meinem beruflichen Alltag mit Windows arbeite.
