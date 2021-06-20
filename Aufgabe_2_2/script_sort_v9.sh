@@ -1,4 +1,5 @@
 #!/bin/bash
+# script_sort.sh
 # Updateordner mit Datum YYMMDD, z.B. 210616
 # Dateien sollen in den übergeordneten Ordner, damit sie weiterverarbeitet werden können 
 # Zielordner data
