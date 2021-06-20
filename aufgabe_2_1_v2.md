@@ -23,3 +23,9 @@ Die OCR-Scans müssen derzeit manuell nach Begriffen durchsucht werden, damit Ta
 3.	Skript aus if-/for-Schleife über die OCR-Dateien laufen lassen
 4.	Bedingung: wenn Begriff <xy> vorkommt, die Datei dazu mit Tags versehen, in einer neuen Datei ausgeben lassen bzw. auf OMEKA dem Datensatz diese Tags zuordnen
 5.	Die OCR-Dateien, über die das Skript gelaufen ist, in OMEKA ablegen
+ 
+## Lösung
+ 
+1. Export der Tags (Kommunen und Orte im Landkreis Erding) als CSV-Datei aus Omeka.net
+2. dazu Clone des Repositories https://github.com/omeka/PythonOmekaApiToCsv in der Shell, Ausführen des hinterlegten Python-Skriptes
+3. Über Api-Endpoint http://erdinggeschichte.omeka.net/api die Tags lokal in tags_output.csv speichern
