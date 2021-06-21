@@ -18,10 +18,10 @@ Die OCR-Scans müssen derzeit manuell nach Begriffen durchsucht werden, damit Ta
 
 ## Möglicher softwarebasierter Ablauf für die Erkennung von Ortsbezeichnungen und den Upload in OMEKA
 
-1.	Alle Kommunen und Orte im Landkreis Erding als Tags im Vorfeld festlegen
-2.	Diese in einer CSV-Tabelle in OMEKA uploaden
+1.	Die Kommunen und Orte bzw. Ortsgruppen im Landkreis Erding wurden als Tags im Vorfeld festgelegt
+2.	Diese können im CSV-Format aus OMEKA exportiert werden
 3.	Skript aus if-/for-Schleife über die OCR-Dateien laufen lassen
-4.	Bedingung: wenn Begriff <xy> vorkommt, die Datei dazu mit Tags versehen, in einer neuen Datei ausgeben lassen bzw. auf OMEKA dem Datensatz diese Tags zuordnen
+4.	Bedingung: wenn Ortsgruppe <xy> vorkommt, die Datei dazu mit Tags versehen, in einer neuen Datei ausgeben lassen bzw. auf OMEKA dem Datensatz diese Tags zuordnen
 5.	Die OCR-Dateien, über die das Skript gelaufen ist, in OMEKA ablegen
  
 ## Lösung
