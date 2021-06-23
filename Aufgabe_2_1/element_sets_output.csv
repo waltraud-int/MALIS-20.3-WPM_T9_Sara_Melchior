@@ -1,0 +1,3 @@
+id,description,elements_count,name,record_type,url
+1,"The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.",15,Dublin Core,,https://erdinggeschichte.omeka.net/api/element_sets/1
+3,"The item type metadata element set, consisting of all item type elements bundled with Omeka and all item type elements created by an administrator.",36,Item Type Metadata,Item,https://erdinggeschichte.omeka.net/api/element_sets/3
