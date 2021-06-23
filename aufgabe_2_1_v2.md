@@ -25,5 +25,5 @@ Die OCR-Scans müssen derzeit manuell nach Begriffen durchsucht werden, damit Ta
 2. dazu Clone des Repositories https://github.com/omeka/PythonOmekaApiToCsv in der Shell, Ausführen des hinterlegten Python-Skriptes
 3. Über Api-Endpoint http://erdinggeschichte.omeka.net/api die Tags lokal in tags_output.csv speichern
 4. in Jupyter Notebook mit Pandas die Listen ansehen und filtern
-5. über ein Python-Skript wird der OCR-Scan der Zeitschriftenseite über die zuvor gefilterte Begriffsliste durchsucht
+5. über ein Python-Skript wird der OCR-Scan der Zeitschriftenseite über die zuvor gefilterte Begriffsliste durchsucht (ich habe dafür an unterschiedlichen Stellen nach nutzbaren Code-Stückchen gesucht und sehr viel auch mit Hilfe von stackoverflow ausprobiert. Der Code ist also aus Versatzstücken zusammengebastelt.
 6. gefundene Begriffe werden in eine Datei exportiert
