@@ -18,8 +18,6 @@ meine Aufgabe MALIS 20.3 WPM_T9 - enthält Teilaufgaben 1, 2.1 und 2.2
 
 ### hat geklappt:
 <ul>
-  <li>Arbeit mit jupyter notebook</li>
-  <li>git pushs und pulls</li>
   <li>Export der Schlagwortliste aus der Plattform Omeka über ein Python-Skript, das jemand auf github zur Verfügung stellt</li>
   <li>Bearbeitung der Schlagwortliste mit pandas</li>
   <li>Durchsuchen des OCR-Textes mit Python-Skript nach vorgegebenen Begriffen</li>
@@ -49,8 +47,6 @@ meine Aufgabe MALIS 20.3 WPM_T9 - enthält Teilaufgaben 1, 2.1 und 2.2
 
 ### hat geklappt:
 <ul>
-  <li>basale Arbeit mit Kommandozeile</li>
-  <li>git pushs und pulls</li>
   <li>File-Transfer und Nachfrage, ob Dateien ersetzt werden sollen</li>
 </ul>
   
