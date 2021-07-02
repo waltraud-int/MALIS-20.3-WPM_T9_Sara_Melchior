@@ -57,6 +57,7 @@ meine Aufgabe MALIS 20.3 WPM_T9 - enthält Teilaufgaben 1, 2.1 und 2.2
 ### hat nicht geklappt:
 <ul>
   <li>Ordner mit den aktuellesten Updates finden, ohne dass ich spezifisch das letztmögliche aktuelle Datum suchen lasse, z.B. Juni 2021 als "2106*"</li>
+  <li>habe daher Befehle gesucht, mit denen ich mir im Vorfeld den aktuellsten Ordner anzeigen lassen kann</li>
   <li>wenn ich Überschreiben von Files im Zielordner auf Rückfrage nicht erlaube, läuft das Skript endlos weiter, bis ich am Ende doch alle erlaubt habe</li>
   <li>mir ist es nicht gelungen, im Shell-Skript unterzubringen, wann es aufhören soll</li>
 </ul>
